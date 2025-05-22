@@ -1,0 +1,2 @@
+def vasa():
+  print("vasa")
